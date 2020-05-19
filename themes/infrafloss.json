@@ -1,0 +1,29 @@
+"editor.tokenColorCustomizations":{
+  "textMateRules": 
+  [
+      {
+          "scope": [
+              "string.unquoted.plain.out.yaml"
+          ],
+          "settings": {
+              "foreground": "#dec0e2"
+          }
+      },
+      {
+          "scope": [
+              "string.quoted.double.yaml"
+          ],
+          "settings": {
+              "foreground": "#C2FFDF"
+          }
+      },
+      {
+          "scope": [
+              "comment.line.number-sign.yaml"
+          ],
+          "settings": {
+              "foreground": "#a186cf"
+          }
+      }
+  ]
+}
